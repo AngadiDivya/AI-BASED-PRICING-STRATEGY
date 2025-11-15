@@ -155,7 +155,7 @@ ai-based-pricing-strategy/
 
 ## 👤 Author
 
-**Cheruvu Madhu Ganesh**  
+**ANGADI DIVYA**  
 🎓 B.Tech – Computer Science and Business Systems (2025)  
 📧 [angadidivya210@gmail.com](mailto:angadidivya210@gmail.com)  
 📍 Peravali, Andhra Pradesh, India  
@@ -178,3 +178,4 @@ If you found this project helpful:
 * 📢 Share with your peers
 
 ---
+
